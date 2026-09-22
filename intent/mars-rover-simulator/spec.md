@@ -162,7 +162,7 @@ L'intention ne recense aucune question ouverte (« Aucune à ce stade. »). Aucu
 
 ### Demande initiale
 
-Commande `/spec intent/mars-rover/intent.md`. Remarque : ce chemin ne correspond à aucun fichier du dépôt ; l'unique intention disponible se trouve à `intent/mars-rover-simulator/intent.md`, qui a été utilisée pour cette spécification.
+Commande `/spec intent/mars-rover-simulator/intent.md`.
 
 ### Skills utilisées
 
